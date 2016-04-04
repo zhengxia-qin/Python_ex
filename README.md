@@ -1,1 +1,14 @@
-# Python_ex
+#http://www.practicepython.org/exercises/
+#Ex2
+
+flag = True
+while flag:
+	num = int(raw_input("Please enter a number (if you want to stop, entre 0): "))
+	if num % 2 == 0:
+		if num == 0:
+			flag = False
+			break
+		else:
+			print("you entered a even number")
+	else:
+print("you entered an odd number")
