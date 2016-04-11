@@ -1,1 +1,1 @@
-#http://www.practicepython.org/exercises/
+Beginner: http://www.practicepython.org/exercises/
